@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+}
+h1{
+
+    font-size: 50px;
+    color: rgb(187, 124, 41);
+    text-align: center;
+}
+img{
+    width: 500px;
+    min-height: 500px;
+    margin-left: 100px;
+}
